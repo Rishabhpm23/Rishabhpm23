@@ -6,8 +6,13 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:020617&height=140&section=header&text=AI%20RESEARCH%20PORTFOLIO&fontSize=28&fontColor=38bdf8&animation=fadeIn&fontAlignY=40"/>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212259363-9b8c9e57-5e4b-4d0b-b56c-3f44dfcc8e5e.gif" width="100%"/>
 </div>
+
 
 ---
 
