@@ -3,7 +3,8 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&height=180&section=header&text=RISHABH%20MAKWANA%20%7C%20AI%20RESEARCHER&fontColor=38bdf8&fontSize=34&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&height=180&section=header&text=ADVANCING%20AI%20-%20FROM%20RESEARCH%20TO%20REALITY
+&fontColor=38bdf8&fontSize=34&animation=fadeIn"/>
 
   <img src="https://raw.githubusercontent.com/mayhemantt/assets/main/neural-network.gif" width="100%"/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
@@ -82,7 +83,10 @@ LoRA · QLoRA · PEFT · RLHF
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-  <h3>⚡ ADVANCING AI — FROM RESEARCH TO REALITY</h3>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e293b&height=80&section=footer"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:020617&height=80&section=footer&animation=fadeIn"/>
+
+  <img src="https://komarev.com/ghpvc/?username=Rishabhpm23&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square"/>
+
 </div>
+
