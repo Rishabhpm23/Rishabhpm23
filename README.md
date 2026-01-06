@@ -1,16 +1,12 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> **RISHABH MAKWANA — AI RESEARCHER**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Deep+Learning+Researcher;Generative+AI;LLM+Fine-Tuning+Engineer;Multimodal+Systems+Developer;B.Tech+AI+%26+DS+|+India&font=Fira%20Code&center=true&width=1000&height=50&color=58A6FF&vCenter=true&size=22">
-</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:020617&height=140&section=header&text=AI%20RESEARCH%20PORTFOLIO&fontSize=28&fontColor=38bdf8&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&height=180&section=header&text=RISHABH%20MAKWANA%20%7C%20AI%20RESEARCHER&fontColor=38bdf8&fontSize=34&animation=fadeIn"/>
 
+  <img src="https://raw.githubusercontent.com/mayhemantt/assets/main/neural-network.gif" width="100%"/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212259363-9b8c9e57-5e4b-4d0b-b56c-3f44dfcc8e5e.gif" width="100%"/>
 </div>
 
 
