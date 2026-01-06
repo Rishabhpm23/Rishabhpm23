@@ -83,6 +83,10 @@ LoRA · QLoRA · PEFT · RLHF
 + Multimodal sketch-to-image and vision-language models
 + Efficient inference, quantization & low-VRAM deployment
 + Human-centered and assistive AI systems
+```
 
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <h3>⚡ ADVANCING AI — FROM RESEARCH TO REALITY</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e293b&height=80&section=footer"/>
+</div>
