@@ -3,8 +3,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&height=180&section=header&text=ADVANCING%20AI%20-%20FROM%20RESEARCH%20TO%20REALITY
-&fontColor=38bdf8&fontSize=34&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&height=180&section=header&text=ADVANCING%20AI%20-%20FROM%20RESEARCH%20TO%20REALITY&fontColor=38bdf8&fontSize=34&animation=fadeIn"/>
 
   <img src="https://raw.githubusercontent.com/mayhemantt/assets/main/neural-network.gif" width="100%"/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
