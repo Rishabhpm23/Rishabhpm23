@@ -19,7 +19,7 @@
 I am an **AI & Deep Learning Researcher** focused on **Large Language Models, Generative Vision, and Multimodal AI Systems**.  
 My work bridges **theoretical research, efficient fine-tuning, and real-world deployment**.
 
-🏆 **5x Hackathon Winner**
+🏆 **7x Hackathon Winner**
 
 ---
 
